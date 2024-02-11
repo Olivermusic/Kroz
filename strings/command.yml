@@ -22,7 +22,7 @@ STATS_COMMAND : ["stats"]
 LANGUAGE_COMMAND : ["lang", "language", "langs"]
 
 # Play Commands
-PLAY_COMMAND : ["play", "vplay", "cplay", "/cvplay", "playforce", "vplayforce", "cplayforce", "cvplayforce", "تشغيل" , "فيديو", "#تشغيل", "/play", "/vplay", "cplay", "cvplay", "تشغيل", "/ق تشغيل", "/ق شغل", "/فيديو", "شغل/", "{NAME_BOT}", "فيديو", "#فديو", "فديو","سورة","سوره"]
+PLAY_COMMAND : ["play", "vplay", "cplay", "/cvplay", "playforce", "vplayforce", "cplayforce", "cvplayforce", "تشغيل" , "فيديو", "#تشغيل", "/play", "/vplay", "cplay", "cvplay", "تشغيل", "/ق تشغيل", "/ق شغل", "/فيديو", "شغل/", "{NAME_BOT}", "فيديو", "#فديو", "شغل","سورة","سوره"]
 PLAYMODE_COMMAND : ["playmode"]
 CHANNELPLAY_COMMAND : ["ربط"]
 STREAM_COMMAND : ["stream", "cstream", "streamforce", "لايف", "ق لايف"]
@@ -33,7 +33,7 @@ DELETEPLAYLIST_COMMAND : ["deleteplaylist"]
 
 # Tools
 QUEUE_COMMAND : ["queue","cqueue", "player", "cplayer", "playing", "cplaying"]
-SONG_COMMAND : ["يوت", "video"]
+SONG_COMMAND : ["يوت", "تحميل"]
 LYRICS_COMMAND : ["lyrics"]
 
 
@@ -41,12 +41,12 @@ LYRICS_COMMAND : ["lyrics"]
 AUTH_COMMAND : ["auth"]
 UNAUTH_COMMAND : ["unauth"]
 AUTHUSERS_COMMAND : ["authusers"]
-PAUSE_COMMAND : ["اوكف", "و"]
+PAUSE_COMMAND : ["اوكف"]
 RESUME_COMMAND : ["استمر"]
 MUTE_COMMAND : ["كتم", "ص"]
 UNMUTE_COMMAND : ["رفع", "ر"]
-STOP_COMMAND : ["كافي", "ايقاف", "اوكف"]
-SKIP_COMMAND : ["سكب", "تخطي"]
+STOP_COMMAND : ["كافي","اسكت"]
+SKIP_COMMAND : ["سكب","تخطي"]
 SHUFFLE_COMMAND : ["تلقائي", "cshuffle"]
 LOOP_COMMAND : ["تكرار", "ت"]
 SEEK_COMMAND : ["تقديم", "د", "seekback", "cseekback"]
