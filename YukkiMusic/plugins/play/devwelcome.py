@@ -19,6 +19,6 @@ async def WelcomeDev(_, response: ChatMemberUpdated):
             chat_id=response.chat.id,
             reply_markup=markup,
             photo="https://te.legra.ph/file/5fdd8da2461c05d893189.jpg", 
-            caption=f"- انضم مطور سورس فريدوم {name} الى هذا المجموعة.\n- {bio}"
+            caption=f"- انضم المطور   {name} الى هذا المجموعة.\n- {bio}"
         )
     
