@@ -31,7 +31,7 @@ LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", ""))
 # You'll need a Private Group ID for this.
 
 # A name for your Music bot.
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "bot")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "ليندا")
 
 # Your User ID.
 OWNER_ID = list(
@@ -159,7 +159,7 @@ autoclean = []
 
 
 # Images
-START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/8041894fa11e8100a9d19.jpg"
+START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/84c9b3bc6bc2ab6b32545.jpg"
                        
 )
 PING_IMG_URL = getenv("PING_IMG_URL", "https://graph.org/file/8041894fa11e8100a9d19.jpg"
