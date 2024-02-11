@@ -162,25 +162,25 @@ autoclean = []
 START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/84c9b3bc6bc2ab6b32545.jpg"
                        
 )
-PING_IMG_URL = getenv("PING_IMG_URL", "https://graph.org/file/8041894fa11e8100a9d19.jpg"
+PING_IMG_URL = getenv("PING_IMG_URL", "https://graph.org/file/84c9b3bc6bc2ab6b32545.jpg"
 
 )                      
-PLAYLIST_IMG_URL = getenv("PLAYLIST_IMG_URL", "https://graph.org/file/ce800ecf11126af579375.jpg"
+PLAYLIST_IMG_URL = getenv("PLAYLIST_IMG_URL", "https://graph.org/file/84c9b3bc6bc2ab6b32545.jpg"
 )
 
-GLOBAL_IMG_URL = getenv("GLOBAL_IMG_URL", "https://graph.org/file/8041894fa11e8100a9d19.jpg"
+GLOBAL_IMG_URL = getenv("GLOBAL_IMG_URL", "https://graph.org/file/84c9b3bc6bc2ab6b32545.jpg"
 )
 
-STATS_IMG_URL = getenv("STATS_IMG_URL", "https://graph.org/file/8041894fa11e8100a9d19.jpg"
+STATS_IMG_URL = getenv("STATS_IMG_URL", "https://graph.org/file/84c9b3bc6bc2ab6b32545.jpg"
 )
 
-TELEGRAM_AUDIO_URL = getenv("TELEGRAM_AUDIO_URL", "https://graph.org/file/8041894fa11e8100a9d19.jpg"
+TELEGRAM_AUDIO_URL = getenv("TELEGRAM_AUDIO_URL", "https://graph.org/file/84c9b3bc6bc2ab6b32545.jpg"
 )
 
-TELEGRAM_VIDEO_URL = getenv("TELEGRAM_VIDEO_URL", "https://graph.org/file/8041894fa11e8100a9d19.jpg"
+TELEGRAM_VIDEO_URL = getenv("TELEGRAM_VIDEO_URL", "https://graph.org/file/84c9b3bc6bc2ab6b32545.jpg"
 )
 
-STREAM_IMG_URL = getenv("STREAM_IMG_URL","https://graph.org/file/8041894fa11e8100a9d19.jpg"
+STREAM_IMG_URL = getenv("STREAM_IMG_URL","https://graph.org/file/84c9b3bc6bc2ab6b32545.jpg"
 )
 
 SOUNCLOUD_IMG_URL = getenv(
@@ -188,7 +188,7 @@ SOUNCLOUD_IMG_URL = getenv(
     "assets/Soundcloud.jpeg",
 )
 
-YOUTUBE_IMG_URL = getenv("YOUTUBE_IMG_URL", "https://graph.org/file/8041894fa11e8100a9d19.jpg"
+YOUTUBE_IMG_URL = getenv("YOUTUBE_IMG_URL", "https://graph.org/file/84c9b3bc6bc2ab6b32545.jpg"
 )
 
 SPOTIFY_ARTIST_IMG_URL = getenv(
