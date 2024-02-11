@@ -34,12 +34,12 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "- اتركها كما هي .",
-        "value": "BoT",
+        "value": "BoT Linda",
         "required": true
       },
       "OWNER_ID": {
         "description": "- اكتب ايدي المنشئ ، او اتركها كما هي .",
-        "value": "1854384004",
+        "value": "5072874938",
         "required": true
       },
       "STRING_SESSION": {
@@ -55,7 +55,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "- لاتغيرها ابدا .",
-        "value": "https://github.com/STKR2/How-",
+        "value": "https://github.com/RX77777/KROZ",
         "required": true
       },
       "UPSTREAM_BRANCH": {
