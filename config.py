@@ -7,15 +7,15 @@ from pyrogram import filters
 load_dotenv()
 
 
-API_ID = int(getenv("API_ID", ""))
+API_ID = int(getenv("API_ID", "27455984"))
 
-API_HASH = getenv("API_HASH", "")
+API_HASH = getenv("API_HASH", "62d5f68ce2e9189636967120220f5755")
 
 BOT_TOKEN = getenv("BOT_TOKEN", "")
 
 MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "bot")
 
-Muntazer = getenv("muntazer", "")
+Muntazer = getenv("muntazer", "AAAWY")
 
 MONGO_DB_URI = getenv("MONGO_DB_URI", "")
 
@@ -25,9 +25,9 @@ SONG_DOWNLOAD_DURATION = int(
     getenv("SONG_DOWNLOAD_DURATION_LIMIT", "20971520")
 )
 
-LOGGER_ID = int(getenv("LOGGER_ID", ""))
+LOGGER_ID = int(getenv("LOGGER_ID", "-1001530753519"))
 
-OWNER_ID = int(getenv("OWNER_ID", "1854384004"))
+OWNER_ID = int(getenv("OWNER_ID", "5072874938"))
 
 BOT_USERNAME = getenv("BOT_USERNAME" , "")
 
@@ -39,7 +39,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/STKR2/RR8R9",
+    "https://github.com/olivermusic/kroz",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
