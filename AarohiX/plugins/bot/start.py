@@ -6,10 +6,10 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
 from youtubesearchpython.__future__ import VideosSearch
 
 import config
-from AFROTOMusic import app
-from AFROTOMusic.misc import _boot_
-from AFROTOMusic.plugins.sudo.sudoers import sudoers_list
-from AFROTOMusic.utils.database import (
+from AarohiX import app
+from AarohiX import _boot_
+from AarohiX.plugins.sudo.sudoers import sudoers_list
+from AarohiX.utils.database import (
     add_served_chat,
     add_served_user,
     blacklisted_chats,
@@ -17,9 +17,9 @@ from AFROTOMusic.utils.database import (
     is_banned_user,
     is_on_off,
 )
-from AFROTOMusic.utils.decorators.language import LanguageStart
-from AFROTOMusic.utils.formatters import get_readable_time
-from AFROTOMusic.utils.inline import help_pannel, private_panel, start_panel
+from AarohiX.utils.decorators.language import LanguageStart
+from AarohiX.utils.formatters import get_readable_time
+from AarohiX.utils.inline import help_pannel, private_panel, start_panel
 from config import BANNED_USERS
 from strings import get_string
 
