@@ -7,7 +7,7 @@ from youtubesearchpython.__future__ import VideosSearch
 
 import config
 from AarohiX import app
-from AarohiX import _boot_
+from AarohiX.misc import _boot_
 from AarohiX.plugins.sudo.sudoers import sudoers_list
 from AarohiX.utils.database import (
     add_served_chat,
