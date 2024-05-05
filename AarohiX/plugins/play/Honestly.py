@@ -2,7 +2,7 @@ import asyncio
 
 
 import random
-from AnonX import app
+from AarohiX import app
 from pyrogram.types import (InlineKeyboardButton,
                             InlineKeyboardMarkup, Message)
 from strings.filters import command
@@ -456,7 +456,7 @@ txt = [
         
 
 
-@app.on_message(command(["اصراحه","اسال","س","سوال","اس"]))
+@app.on_message(command(["صراحة","سؤال","س","أسئلة","اس"]))
 
 
 async def cutt(client: Client, message: Message):
